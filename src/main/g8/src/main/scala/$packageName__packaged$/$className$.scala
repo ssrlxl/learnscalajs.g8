@@ -10,3 +10,4 @@ object $className$ extends js.JSApp {
     paragraph.innerHTML = "<strong>It works!</strong>"
     dom.document.getElementById("container").appendChild(paragraph)
   }
+}
